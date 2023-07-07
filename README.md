@@ -7,9 +7,6 @@
 - 🤔 I’m currently exploring React Native and Web 3
 - 💬 Ask me about Mobile Development, full-stack, web, or literally anything!
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Vedant-20/Vedant-20/assets/91717779/1d813da1-29bf-4174-aef7-fdb3e047b24c)
-">
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-warjurkar) 
