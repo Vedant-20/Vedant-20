@@ -1,5 +1,11 @@
 # 💫 About Me:
-○ Computer Engineer and Full Stack Developer.<br><br>○ Recently graduated with a strong foundation in web development.<br><br>○ Proficient in ReactJs, Node.js, and Flutter.<br><br>○ Currently exploring React Native and Next.js.<br><br>○ Enthusiastically learning TypeScript.<br><br>○ Passionate about pushing boundaries and creating impactful solutions.
+##### Hi, I'm Vedant:
+- 🎓 Recent Computer Engineering graduate from SVPCET.
+- 🪐Computer Engineer and Full Stack Developer.
+- 🌱 I’m currently learning about Data Structures , System Design and Typescript.
+- 👯 I’m looking to collaborate on Web Dev stuff.
+- 🤔 I’m currently exploring React Native and Web 3
+- 💬 Ask me about Mobile Development, full-stack, web, or literally anything!
 
 
 ## 🌐 Socials:
