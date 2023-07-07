@@ -7,6 +7,9 @@
 - 🤔 I’m currently exploring React Native and Web 3
 - 💬 Ask me about Mobile Development, full-stack, web, or literally anything!
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Vedant-20/Vedant-20/assets/91717779/1d813da1-29bf-4174-aef7-fdb3e047b24c)
+">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-warjurkar) 
@@ -35,6 +38,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 
 
 ##### Some of the Databases I have worked with
