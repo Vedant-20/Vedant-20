@@ -17,10 +17,10 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flate&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 
 ##### Some of the technologies I have worked with
@@ -51,5 +51,7 @@
 ## ✅ Most Language Used ✅
 <p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-20&hide=css&theme=nord" alt="Language_Used" /></p>
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=Vedant-20&icon=4&color=3)](https://visitcount.itsvg.in)
 
