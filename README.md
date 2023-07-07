@@ -45,8 +45,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+## ✅ Most Language Used ✅
+<p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-20&hide=css&theme=nord" alt="Language_Used" /></p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Vedant-20&icon=4&color=3)](https://visitcount.itsvg.in)
 
