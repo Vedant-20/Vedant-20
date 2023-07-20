@@ -53,11 +53,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-20&show_icons=true&locale=en&layout=compact" alt="vedant-20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-20&show_icons=true&locale=en" alt="vedant-20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-20&" alt="vedant-20" /></p>
 
 
 
