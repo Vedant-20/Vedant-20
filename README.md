@@ -11,11 +11,28 @@
 - 🤔 I’m currently exploring React Native and Web 3
 - 💬 Ask me about Mobile Development, full-stack, web, or literally anything!
 
+<!--  EXCITED CHARACTERS  -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
+
+
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
+</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-warjurkar) 
 
-# 💻 Tech Stack:
+
+
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
+</br>
+
+# 💻 Tech Stack: <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -26,6 +43,11 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
+</br>
 
 
 ##### Some of the technologies I have worked with
@@ -49,10 +71,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
+</br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-20&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-20&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-20&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
+</br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vedant-20&icon=0&color=0)](https://visitcount.itsvg.in)
