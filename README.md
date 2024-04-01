@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 💫 About Me: <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-##### Hi, I'm Vedant:
+##### Hi, I'm Vedant: 
 - 🎓 Recent Computer Engineering graduate from SVPCET.
 - 🪐Computer Engineer and Full Stack Developer.
 - 🌱 Enthusiastically learning about Data Structures , System Design and Typescript.
@@ -88,6 +88,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vedant-20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
 
 
 
